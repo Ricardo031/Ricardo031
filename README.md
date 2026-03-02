@@ -13,16 +13,19 @@ Currently, I'm strengthening my skills at **University** and **Riwi**, focusing 
 
 ## 🛠️ Tech Stack
 
-### 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo031&layout=compact&theme=tokyonight" />
-</p>
+### 💻 Top Languages and Framework
 
 - JavaScript  
 - TypeScript  
 - C#  
-- Python  
+- Python
+
+**framework**
+- Astro
+- Svelte
+- React
+- .Net
+- Tailwind
 
 ---
 
@@ -35,9 +38,7 @@ Currently, I'm strengthening my skills at **University** and **Riwi**, focusing 
 ---
 
 ## 🎮 Hobbies & Interests
-
-- 🎮 Video Games, Designing Prototypes (Figma),Gym and Music  
-
+- Video Games, Designing Prototypes (Figma),Gym and Music  
 ---
 
 ## 💡 Interests
@@ -52,5 +53,5 @@ I'm passionate about:
 ---
 
 ## 📫 Let's Connect
-
-Feel free to connect and collaborate 🚀
+https://github.com/Ricardo031
+https://www.linkedin.com/in/ricardo-torres-bermudez-739a632b7?
