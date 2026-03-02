@@ -52,5 +52,4 @@ I'm passionate about:
 - Building useful digital solutions  
 
 ##  Let's Connect
-- https://github.com/Ricardo031
 - https://www.linkedin.com/in/ricardo-torres-bermudez-739a632b7?
