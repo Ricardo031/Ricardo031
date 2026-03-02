@@ -14,17 +14,20 @@ Currently, I'm strengthening my skills at **University** and **Riwi**, focusing 
 ##  Tech Stack
 
 ###  Top Languages 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+<p align="left" gap="3px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+</p>
 
 ### Frameworks & Tools
-![Astro](https://img.shields.io/badge/Astro-000?style=for-the-badge&logo=astro)
-![Svelte](https://img.shields.io/badge/Svelte-000?style=for-the-badge&logo=svelte)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="45" alt="Astro"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45" alt="Svelte"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" alt=".NET"/>
+</p>
 
 
 ## Currently Learning
