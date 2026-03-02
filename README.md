@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ricardo
 
-<!--
-**Ricardo031/Ricardo031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a **Systems Engineering student** specialized in **Frontend Development**.  
+I enjoy building creative, intuitive, and modern user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm strengthening my skills at **University** and **Riwi**, focusing on continuous growth and career development.
+
+🎯 **Goal:** Become a Full Stack Developer and build impactful digital solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo031&layout=compact&theme=tokyonight" />
+</p>
+
+- JavaScript  
+- TypeScript  
+- C#  
+- Python  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Frontend Architecture  
+- Backend Development  
+- Automation & AI Tools  
+
+---
+
+## 🎮 Hobbies & Interests
+
+- 🎮 Video Games, Designing Prototypes (Figma),Gym and Music  
+
+---
+
+## 💡 Interests
+
+I'm passionate about:
+
+- Learning continuously  
+- Working on meaningful projects  
+- Creating content about technology  
+- Building useful digital solutions  
+
+---
+
+## 📫 Let's Connect
+
+Feel free to connect and collaborate 🚀
