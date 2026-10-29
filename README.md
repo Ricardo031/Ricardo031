@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Full Stack Developer** and **UX/UI Designer** specialized in building modern user experiences, robust backends, and AI-driven solutions.  
+I'm a **Systems Engineer**, **Full Stack Developer**, and **UX/UI Designer** specialized in building modern user experiences, robust backends, and AI-driven solutions.  
 
 I have hands-on experience designing and developing digital applications, as well as working with **AI Agents, orchestration, and AI skills development**.
 
